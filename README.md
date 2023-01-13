@@ -50,7 +50,7 @@
 I created this repository to share all codes I did based on exercices solution from the Book Cracking the Code Interview (6º Edition)!
 Fell free to report any bug.
 Here's why I did it:
-* To improve my data strutures skills.
+* To improve my data structures skills.
 * To improve algorithms skills. 
 * To get best scores in code challenges :smile:
 
