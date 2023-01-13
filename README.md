@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/danielsanmartin/cracking_the_code_python_solutions">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="120" height="160">
   </a>
 
   <h3 align="center">Book Cracking the Code Interview (6º Edition) Python codes</h3>
